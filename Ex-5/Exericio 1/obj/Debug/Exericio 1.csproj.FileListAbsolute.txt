@@ -1,0 +1,7 @@
+C:\Users\marlo\Documents\Exericios do C#\função\Exericio 1\Exericio 1\bin\Debug\Exericio 1.exe.config
+C:\Users\marlo\Documents\Exericios do C#\função\Exericio 1\Exericio 1\bin\Debug\Exericio 1.exe
+C:\Users\marlo\Documents\Exericios do C#\função\Exericio 1\Exericio 1\bin\Debug\Exericio 1.pdb
+C:\Users\marlo\Documents\Exericios do C#\função\Exericio 1\Exericio 1\obj\Debug\Exericio 1.csprojAssemblyReference.cache
+C:\Users\marlo\Documents\Exericios do C#\função\Exericio 1\Exericio 1\obj\Debug\Exericio 1.csproj.CoreCompileInputs.cache
+C:\Users\marlo\Documents\Exericios do C#\função\Exericio 1\Exericio 1\obj\Debug\Exericio 1.exe
+C:\Users\marlo\Documents\Exericios do C#\função\Exericio 1\Exericio 1\obj\Debug\Exericio 1.pdb
