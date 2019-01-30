@@ -1,4 +1,4 @@
-# Ex-Fun-o
+# Ex-Função
 Exercício de Função
 
 Utilize funções para realizar as operações dos exercícios abaixo:
